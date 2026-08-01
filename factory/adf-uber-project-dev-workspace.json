@@ -1,0 +1,15 @@
+{
+	"name": "adf-uber-project-dev-workspace",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d98fd33a-df7c-49f0-8c64-13338c745dff",
+		"tenantId": "d15e84a5-4dd8-47f2-bc81-92442f7b6c9a"
+	}
+}
